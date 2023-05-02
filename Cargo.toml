@@ -1,0 +1,9 @@
+[package]
+name = "cal"
+version = "0.1.0"
+authors = ["Dilshad <dilshadplayingminecraft@outlook.com>"]
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.24"
+colored = "2.0.0"
