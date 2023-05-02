@@ -6,7 +6,7 @@ A blazingly fast calendar with command line interface written in rust
 ```console
 # make sure you have rust installed on your system
 git clone https://github.com/a-rustacean/calendar.git
-cd serve
+cd calendar
 ./install.sh
 ```
 
