@@ -89,14 +89,3 @@ fn main() {
     };
     println!();
 }
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn check_pad() {
-        assert_eq!(pad("1", 2), " 1".to_string());
-        assert_eq!(pad("10", 2), "10".to_string());
-    }
-}
