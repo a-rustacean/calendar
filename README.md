@@ -1,18 +1,18 @@
 # serve
-A blazingly fast calendar with command line interface written in rust
+A blazingly fast calendar with a command line interface written in rust
 
 ## Installation
 
-```console
+```shell
 # make sure you have rust installed on your system
 git clone https://github.com/a-rustacean/calendar.git
 cd calendar
 ./install.sh
 ```
 
-## use
+## Usage
 
-```console
+```shell
 $ cal
       May 2023
 Su Mo Tu We Th Fr Sa
@@ -25,7 +25,7 @@ Su Mo Tu We Th Fr Sa
 
 ## Uninstall
 
-```console
+```shell
 # make sure you are in the directory you cloned
 ./uninstall.sh
 ```
